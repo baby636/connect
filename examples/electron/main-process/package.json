@@ -53,10 +53,10 @@
         }
     },
     "dependencies": {
-        "trezor-connect": "8.1.5-extended"
+        "trezor-connect": "8.1.5"
     },
     "devDependencies": {
-        "electron": "^9.0.2",
+        "electron": "^13.6.6",
         "electron-builder": "^22.7.0"
     }
   }
