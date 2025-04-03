@@ -57,7 +57,7 @@
         "@babel/preset-flow": "^7.12.1",
         "@trezor/blockchain-link": "^1.0.17",
         "@trezor/rollout": "1.0.8",
-        "@trezor/utxo-lib": "^0.1.2",
+        "@trezor/utxo-lib": "^1.0.0",
         "babel-collect-imports": "https://github.com/szymonlesisz/babel-collect-imports",
         "babel-eslint": "^10.1.0",
         "babel-jest": "^26.6.3",
