@@ -50,7 +50,7 @@
         "@babel/cli": "^7.12.10",
         "@babel/core": "^7.12.10",
         "@babel/node": "^7.12.10",
-        "@babel/plugin-proposal-class-properties": "^7.12.1",
+        "@babel/plugin-proposal-class-properties": "^7.18.6",
         "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
         "@babel/plugin-transform-runtime": "^7.12.10",
         "@babel/preset-env": "^7.12.10",
@@ -68,7 +68,7 @@
         "copy-webpack-plugin": "^6.3.2",
         "css-loader": "4.3.0",
         "es6-promise": "^4.2.2",
-        "eslint": "^7.21.0",
+        "eslint": "^9.0.0",
         "eslint-config-airbnb-base": "^14.2.1",
         "eslint-config-prettier": "^8.1.0",
         "eslint-plugin-flowtype": "5.3.1",
@@ -101,7 +101,7 @@
         "version-bump-prompt": "6.1.0",
         "webpack": "4.44.2",
         "webpack-cli": "3.3.12",
-        "webpack-dev-server": "3.11.1",
+        "webpack-dev-server": "4.7.3",
         "worker-loader": "^3.0.5"
     },
     "dependencies": {
