@@ -68,7 +68,7 @@
         "copy-webpack-plugin": "^6.3.2",
         "css-loader": "4.3.0",
         "es6-promise": "^4.2.2",
-        "eslint": "^7.21.0",
+        "eslint": "^9.0.0",
         "eslint-config-airbnb-base": "^14.2.1",
         "eslint-config-prettier": "^8.1.0",
         "eslint-plugin-flowtype": "5.3.1",
